@@ -1,6 +1,15 @@
 # AskBIT — Intelligent Campus AI Assistant & RAG FAQ Portal 🎓⚡
 
 > **An AI-Powered Campus Information Retrieval & Academic Assistance System for Bannari Amman Institute of Technology (BIT Sathy).**
+> FOR STUDENT LOGIN
+> ID:sanjiv PASSWORD:pass
+> FOR FACULTY LOGIN
+> ID:faculty PASSWORD:pass
+> FOR PARENT LOGIN
+> ID:parent PASSWORD:pass
+> FOR ADMIN ACCESS
+> ID:admin PASSWORD:@min
+> link:https://dc-oijo.vercel.app/
 
 ---
 
